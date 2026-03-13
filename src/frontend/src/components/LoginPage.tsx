@@ -20,7 +20,7 @@ export default function LoginPage() {
             <GraduationCap className="w-10 h-10 text-primary-foreground" />
           </div>
           <h1 className="text-3xl font-bold text-foreground mb-1">
-            Vidya Mandir
+            New Angel Public Higher Secondary School
           </h1>
           <p className="text-muted-foreground font-medium">
             School Management System

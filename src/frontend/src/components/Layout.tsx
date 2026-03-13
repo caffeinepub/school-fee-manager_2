@@ -93,7 +93,7 @@ export default function Layout({
           </div>
           <div className="min-w-0">
             <p className="text-sidebar-foreground font-bold text-sm leading-tight truncate">
-              Vidya Mandir
+              New Angel Public Higher Secondary School
             </p>
             <p className="text-sidebar-accent-foreground/60 text-xs truncate">
               School System
@@ -158,7 +158,7 @@ export default function Layout({
           <div className="flex items-center gap-2">
             <GraduationCap className="w-5 h-5 text-primary" />
             <span className="font-bold text-sm text-foreground">
-              Vidya Mandir
+              New Angel Public Higher Secondary School
             </span>
           </div>
         </header>

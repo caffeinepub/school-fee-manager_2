@@ -33,7 +33,7 @@ function ReceiptView({
     <div className="print-receipt space-y-5 font-sans">
       <div className="text-center border-b pb-4">
         <h2 className="text-2xl font-bold text-foreground">
-          Vidya Mandir School
+          New Angel Public Higher Secondary School
         </h2>
         <p className="text-muted-foreground text-sm">Fee Payment Receipt</p>
       </div>
